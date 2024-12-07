@@ -23,7 +23,7 @@
 1. ابتدا این پروژه را دانلود و استخراج کنید یا از گیت برای کلون کردن استفاده کنید.
 
     ```bash
-    git clone <URL_OF_THE_REPOSITORY>
+    git clone https://github.com/nv281/FreeTelegramAIBot.git
     ```
 
 2. فایل‌های `bot.py` و `config.py` را در یک پوشه قرار دهید.
