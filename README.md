@@ -1,6 +1,8 @@
 # ربات تلگرام هوش مصنوعی
 
-![لوگوی پروژه](https://raw.githubusercontent.com/nv281/FreeTelegramAIBot/refs/heads/main/logo.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nv281/FreeTelegramAIBot/refs/heads/main/logo.jpeg" alt="لوگوی پروژه" width="300">
+</p>
 
 این پروژه یک ربات تلگرام است که از مدل‌های GPT برای پردازش درخواست‌ها و پاسخ‌دهی به سوالات استفاده می‌کند. ربات قابلیت پاسخ به سوالات متنی و همچنین ایجاد تصاویر از دستورات ورودی را دارد.
 
